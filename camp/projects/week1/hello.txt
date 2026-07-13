@@ -1,0 +1,18 @@
+hp@LAPTOP-3RH5PDBL MINGW64 ~
+$ cd ~
+mkdir -p camp/projects/week1
+mkdir -p camp/notes
+touch camp/projects/week1/hello.txt
+echo "hello camp" > camp/projects/week1/hello.txt
+ls -R camp
+camp:
+notes/  projects/
+
+camp/notes:
+
+camp/projects:
+week1/
+
+camp/projects/week1:
+hello.txt
+
